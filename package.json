@@ -1,0 +1,7 @@
+{
+  "name": "threejs-virtual-room",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
